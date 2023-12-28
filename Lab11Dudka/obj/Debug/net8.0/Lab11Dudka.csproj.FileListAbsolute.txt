@@ -1,0 +1,14 @@
+C:\Users\Дом\RiderProjects\Lab11Dudka\Lab11Dudka\obj\Debug\net8.0\Lab11Dudka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\RiderProjects\Lab11Dudka\Lab11Dudka\obj\Debug\net8.0\Lab11Dudka.AssemblyInfoInputs.cache
+C:\Users\Дом\RiderProjects\Lab11Dudka\Lab11Dudka\obj\Debug\net8.0\Lab11Dudka.AssemblyInfo.cs
+C:\Users\Дом\RiderProjects\Lab11Dudka\Lab11Dudka\obj\Debug\net8.0\Lab11Dudka.csproj.CoreCompileInputs.cache
+C:\Users\Дом\RiderProjects\Lab11Dudka\Lab11Dudka\bin\Debug\net8.0\Lab11Dudka.exe
+C:\Users\Дом\RiderProjects\Lab11Dudka\Lab11Dudka\bin\Debug\net8.0\Lab11Dudka.deps.json
+C:\Users\Дом\RiderProjects\Lab11Dudka\Lab11Dudka\bin\Debug\net8.0\Lab11Dudka.runtimeconfig.json
+C:\Users\Дом\RiderProjects\Lab11Dudka\Lab11Dudka\bin\Debug\net8.0\Lab11Dudka.dll
+C:\Users\Дом\RiderProjects\Lab11Dudka\Lab11Dudka\bin\Debug\net8.0\Lab11Dudka.pdb
+C:\Users\Дом\RiderProjects\Lab11Dudka\Lab11Dudka\obj\Debug\net8.0\Lab11Dudka.dll
+C:\Users\Дом\RiderProjects\Lab11Dudka\Lab11Dudka\obj\Debug\net8.0\refint\Lab11Dudka.dll
+C:\Users\Дом\RiderProjects\Lab11Dudka\Lab11Dudka\obj\Debug\net8.0\Lab11Dudka.pdb
+C:\Users\Дом\RiderProjects\Lab11Dudka\Lab11Dudka\obj\Debug\net8.0\Lab11Dudka.genruntimeconfig.cache
+C:\Users\Дом\RiderProjects\Lab11Dudka\Lab11Dudka\obj\Debug\net8.0\ref\Lab11Dudka.dll
